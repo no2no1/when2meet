@@ -1,0 +1,7 @@
+streamlit>=1.28.0
+pandas>=2.0.0
+gspread>=5.12.0
+google-auth>=2.0.0
+certifi>=2024.0.0
+truststore>=0.10.0
+pip-system-certs>=4.0
